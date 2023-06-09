@@ -15,4 +15,3 @@ SweetOsiris
 Lyke_Dowler
 -Zug-
 Mew ~
-[1] Local Player
