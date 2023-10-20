@@ -8,6 +8,7 @@ seakaii
 
 RGRDrangon
 
+[1] Local Player
 
 Sneck96
 Queenie25
