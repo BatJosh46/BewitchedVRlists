@@ -5,3 +5,4 @@ spektrr
 M3k_A
 Hex2906
 Weazl
+NoireVR
