@@ -84,11 +84,8 @@
  "Dark-Assassin":{"Rank":"VVIP", "Privilege":"VVIP"},
  "Leon The Giratina":{"Rank":"VVIP", "Privilege":"VVIP"},
  "RoamingNPC":{"Rank":"VVIP", "Privilege":"VVIP"},
- "Leon Dragonwolf":{"Rank":"VVIP", "Privilege":"VVIP"},
  "Codybun":{"Rank":"VVIP", "Privilege":"VVIP"},
  "CrimsonRose22":{"Rank":"VVIP", "Privilege":"VVIP"},
- "Weazl":{"Rank":"VVIP", "Privilege":"VVIP"},
- "cthulahoop":{"Rank":"VVIP", "Privilege":"VVIP"},
  "-Oaktree-":{"Rank":"VVIP", "Privilege":"VVIP"},
  "Soap23":{"Rank":"VVIP", "Privilege":"VVIP"},
  "Ermina West":{"Rank":"VVIP", "Privilege":"VVIP"},
@@ -125,5 +122,11 @@
  "Cheaty_":{"Rank":"VVIP", "Privilege":"VVIP"},
  "stihl":{"Rank":"VVIP", "Privilege":"VVIP"},
 
- 
+ "DaddyIssuez":{"Rank":"Partners", "Privilege":"VVIP"},
+ "ArisuKimyona":{"Rank":"Partners", "Privilege":"VVIP"},
+ "ʟօsᴛ":{"Rank":"Partners", "Privilege":"VVIP"},
+ "☽∘DUCC∘☾":{"Rank":"Partners", "Privilege":"VVIP"},
+ "BeerSenpai":{"Rank":"Partners", "Privilege":"VVIP"},
+
+ "PlaceholderName":{"Rank":"Booster", "Privilege":"VVIP"},
 }
