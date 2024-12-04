@@ -3,4 +3,4 @@ Poster Dimensions: 864x1152
 
 ![Partner](Partner.png)
 ![Poster](Poster.png)
-![Coming Soon](Coming Soon2.png)
+![Coming Soon](ComingSoon.png)
