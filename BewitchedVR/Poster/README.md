@@ -1,5 +1,6 @@
 Partner Dimensions: 2000x1545
-Poster Dimensions: 864x1152
+\nPoster Dimensions: 864x1152
+Poster
 
 ![Partner](Partner.png)
 ![Poster](Poster.png)
