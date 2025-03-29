@@ -275,6 +275,7 @@
   "Hex Bubble": {
     "Rank": "Management",
     "Privilege": "Staff"
+    "BdayStaff": "True"
   },
   "AntoniusXPS": {
     "Rank": "Booster",
