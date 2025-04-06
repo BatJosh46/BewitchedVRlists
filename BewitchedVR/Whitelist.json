@@ -496,5 +496,9 @@
   "LunaMothy": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "BatJosh": {
+    "Rank": "WorldDev",
+    "Privilege": "Staff"
   }
 }
