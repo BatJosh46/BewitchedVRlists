@@ -2,11 +2,6 @@
   "WorldSettings": {
     "Colour": "5000FC"
   },
-  "BatJosh": {
-    "Rank": "WorldDev",
-    "Privilege": "Staff",
-    "BdayStaff": "True"
-  },
   "crybunni": {
     "Rank": "Owner",
     "Privilege": "Staff"
