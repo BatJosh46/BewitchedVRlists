@@ -2,6 +2,10 @@
   "WorldSettings": {
     "Colour": "5000FC"
   },
+  "BatJosh": {
+    "Rank": "WorldDev",
+    "Privilege": "Staff"
+  },
   "crybunni": {
     "Rank": "Owner",
     "Privilege": "Staff"
@@ -495,10 +499,6 @@
   },
   "LunaMothy": {
     "Rank": "DancerTrial",
-    "Privilege": "Staff"
-  },
-  "BatJosh": {
-    "Rank": "WorldDev",
     "Privilege": "Staff"
   }
 }
