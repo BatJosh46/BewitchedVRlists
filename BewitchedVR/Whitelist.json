@@ -488,5 +488,9 @@
   "ahnuheekireeki": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "testname": {
+    "Rank": "Booster",
+    "Privilege": "Staff"
   }
 }
