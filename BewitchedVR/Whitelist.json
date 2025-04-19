@@ -552,5 +552,9 @@
   "DrkFlmMstr": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "ZooboxSan": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
