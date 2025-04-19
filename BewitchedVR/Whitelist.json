@@ -540,5 +540,9 @@
   "П I П Λ": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "Desecrated": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
