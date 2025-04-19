@@ -548,5 +548,9 @@
   "Reikdar": {
     "Rank": "Patreon",
     "Privilege": "VVIP"
+  },
+  "DrkFlmMstr": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
