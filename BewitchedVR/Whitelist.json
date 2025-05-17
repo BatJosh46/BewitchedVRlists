@@ -536,5 +536,9 @@
   "Flex___": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "LordZachBora": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
