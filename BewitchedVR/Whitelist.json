@@ -540,5 +540,9 @@
   "Sharkie the pan": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "tqhcruisin": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }
