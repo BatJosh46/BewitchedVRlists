@@ -544,5 +544,9 @@
   "tqhcruisin": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "Kreya": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
