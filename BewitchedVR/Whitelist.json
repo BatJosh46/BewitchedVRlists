@@ -548,5 +548,9 @@
   "Kreya": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "~mioo~": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
