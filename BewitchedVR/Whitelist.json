@@ -552,5 +552,9 @@
   "~mioo~": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Blitz_Vrc": {
+    "Rank": "Photographers",
+    "Privilege": "Staff"
   }
 }
