@@ -560,5 +560,9 @@
   "Sweet Caramel": {
     "Rank": "Photographers",
     "Privilege": "Staff"
+  },
+  "NeonLoveNeko": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
