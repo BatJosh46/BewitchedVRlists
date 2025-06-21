@@ -544,5 +544,9 @@
   "LaxxusZ": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "Asher_2": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
