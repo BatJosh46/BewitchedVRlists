@@ -548,5 +548,9 @@
   "BgVooDoo": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "djkillerbas": {
+    "Rank": "Collab",
+    "Privilege": "Staff"
   }
 }
