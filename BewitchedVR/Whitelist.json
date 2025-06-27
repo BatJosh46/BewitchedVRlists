@@ -552,5 +552,9 @@
   "djkillerbas": {
     "Rank": "Collab",
     "Privilege": "Staff"
+  },
+  "NomiKonomi": {
+    "Rank": "Collab",
+    "Privilege": "Staff"
   }
 }
