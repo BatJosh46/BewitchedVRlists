@@ -592,5 +592,9 @@
   "Zoma Mitsurugi": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "LunaMothy": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }
