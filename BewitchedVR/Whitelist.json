@@ -568,5 +568,9 @@
   "Asher_2": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "TheFury1": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
