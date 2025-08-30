@@ -580,5 +580,9 @@
   "Raptor03": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "~~~Pancakes~~~": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
