@@ -504,5 +504,9 @@
   "~~~Pancakes~~~": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Riri Rawra": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }
