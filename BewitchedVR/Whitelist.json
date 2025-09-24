@@ -532,5 +532,9 @@
   "MoopMoop": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "PlaguedIdeology": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
