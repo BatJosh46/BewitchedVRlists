@@ -532,5 +532,9 @@
   "ღ_lia_ღ": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "GreemVex": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
