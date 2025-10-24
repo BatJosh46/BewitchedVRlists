@@ -540,5 +540,9 @@
   "DaisyDays": {
     "Rank": "LeadDancer",
     "Privilege": "Staff"
+  },
+  "Prismatic Vapor": {
+    "Rank": "Collab",
+    "Privilege": "Staff"
   }
 }
