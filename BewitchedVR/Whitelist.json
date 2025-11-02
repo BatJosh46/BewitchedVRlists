@@ -576,5 +576,9 @@
   "LAPLADY": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "RavenzPromise": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
