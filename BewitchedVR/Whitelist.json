@@ -560,5 +560,9 @@
   "DoubleDutchDan": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "tinyalison": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
