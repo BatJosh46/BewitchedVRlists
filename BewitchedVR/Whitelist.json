@@ -432,5 +432,9 @@
   "GreemVex": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "PhantomRailgun": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
