@@ -392,5 +392,9 @@
   "Hotoroti": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "BazzVR": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
