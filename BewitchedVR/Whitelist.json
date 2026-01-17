@@ -392,5 +392,9 @@
   "LaxxusZ": {
     "Rank": "Management",
     "Privilege": "Staff"
+  },
+  "Hotoroti": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
