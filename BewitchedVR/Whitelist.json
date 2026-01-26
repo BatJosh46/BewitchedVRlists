@@ -396,5 +396,9 @@
   "Buster Skull": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "MoopMoop": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
