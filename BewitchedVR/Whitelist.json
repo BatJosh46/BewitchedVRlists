@@ -420,5 +420,9 @@
   "6SARGE9": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "APCMars": {
+    "Rank": "Booster",
+    "Privilege": "Staff"
   }
 }
