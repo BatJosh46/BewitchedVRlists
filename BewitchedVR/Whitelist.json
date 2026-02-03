@@ -420,5 +420,9 @@
   "APcmars": {
     "Rank": "Booster",
     "Privilege": "Staff"
+  },
+  "BazzVR": {
+    "Rank": "Photographers",
+    "Privilege": "Staff"
   }
 }
