@@ -424,5 +424,9 @@
   "BazzVR": {
     "Rank": "Photographers",
     "Privilege": "Staff"
+  },
+  "__Dxm__": {
+    "Rank": "Collab",
+    "Privilege": "Staff"
   }
 }
