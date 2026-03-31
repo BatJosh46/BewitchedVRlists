@@ -416,5 +416,9 @@
   "Sakura~Alpaca27": {
     "Rank": "Dancer",
     "Privilege": "Staff"
+  },
+  "__Dxm__": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
