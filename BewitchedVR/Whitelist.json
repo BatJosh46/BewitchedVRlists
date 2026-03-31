@@ -408,5 +408,9 @@
   "__Dxm__": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Legorian": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
