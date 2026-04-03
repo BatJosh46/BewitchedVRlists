@@ -408,5 +408,9 @@
   "Legorian": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "Hotoroti": {
+    "Rank": "DJ",
+    "Privilege": "Staff"
   }
 }
