@@ -396,5 +396,9 @@
   "Phrike": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "Kuazuki": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
