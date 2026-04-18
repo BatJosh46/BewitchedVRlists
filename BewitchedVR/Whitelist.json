@@ -400,5 +400,9 @@
   "Kuazuki": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "AlulaNova": {
+    "Rank": "Patreon",
+    "Privilege": "VVIP"
   }
 }
