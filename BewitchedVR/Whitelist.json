@@ -332,5 +332,9 @@
   "ρᴏιѕᴏɴ": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "TsumiDoragon": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
