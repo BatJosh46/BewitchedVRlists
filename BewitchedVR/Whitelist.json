@@ -332,5 +332,9 @@
   "TsumiDoragon": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Judgbin": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
