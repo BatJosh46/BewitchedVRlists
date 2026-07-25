@@ -340,5 +340,9 @@
   "Rose Wulf": {
     "Rank": "Patreon",
     "Privilege": "VVIP"
+  },
+  "SYUndead": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
