@@ -340,5 +340,9 @@
   "SYUndead": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "MusicGeek85": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
