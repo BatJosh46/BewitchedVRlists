@@ -340,5 +340,9 @@
   "MusicGeek85": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Zakattak": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
