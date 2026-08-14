@@ -344,5 +344,9 @@
   "Phrike": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "Custom reform": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
