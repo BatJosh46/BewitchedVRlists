@@ -1,2 +1,2 @@
 Bewitched lists <br>
-![Poster ref](BewitchedVR/Poster/README.md)
+[Poster ref](BewitchedVR/Poster/README.md)
