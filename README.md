@@ -1,2 +1,2 @@
 Bewitched lists
-![Poster ref](/Poster/README.md)
+![Poster ref](Poster/README.md)
