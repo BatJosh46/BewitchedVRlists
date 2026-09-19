@@ -368,5 +368,9 @@
   "ٰٰٰ ٰٰMansplain": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Hacabro": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
