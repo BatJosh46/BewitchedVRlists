@@ -352,5 +352,9 @@
   "Hacabro": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "LittleJodie": {
+    "Rank": "Dancer",
+    "Privilege": "Staff"
   }
 }
