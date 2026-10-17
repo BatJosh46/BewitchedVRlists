@@ -364,5 +364,9 @@
   "KiritoTheBeater": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "Sigmaa": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
