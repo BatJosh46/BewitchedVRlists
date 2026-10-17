@@ -372,5 +372,9 @@
   "HuntingRebel": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "Lance Mallow": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
