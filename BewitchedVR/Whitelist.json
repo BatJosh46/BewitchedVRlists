@@ -368,5 +368,9 @@
   "Sigmaa": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "HuntingRebel": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
