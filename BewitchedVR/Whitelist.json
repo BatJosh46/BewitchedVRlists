@@ -376,5 +376,9 @@
   "Lance Mallow": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "rushelers": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
