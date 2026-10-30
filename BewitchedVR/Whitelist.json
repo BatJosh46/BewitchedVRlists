@@ -404,5 +404,9 @@
   "Kayoko": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "ZooboxSan": {
+    "Rank": "Booster",
+    "Privilege": "VVIP"
   }
 }
