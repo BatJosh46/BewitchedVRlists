@@ -400,5 +400,9 @@
   "PainfullyThicc": {
     "Rank": "DancerTrial",
     "Privilege": "Staff"
+  },
+  "PainfullyThicc~": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
