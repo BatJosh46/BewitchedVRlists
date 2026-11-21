@@ -396,5 +396,9 @@
   "GammaThex": {
     "Rank": "Booster",
     "Privilege": "VVIP"
+  },
+  "PainfullyThicc": {
+    "Rank": "DancerTrial",
+    "Privilege": "Staff"
   }
 }
